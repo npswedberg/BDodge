@@ -1,0 +1,95 @@
+﻿  glad.c
+  fbx_convert.cpp
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(91): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(92): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(93): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(106): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(107): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(108): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(173): warning C4244: 'initializing': conversion from 'fbxsdk::FbxLongLong' to 'int', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(193): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(194): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(195): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(202): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(203): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(204): warning C4244: '=': conversion from 'fbxsdk::FbxDouble' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(217): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(218): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(274): warning C4244: 'initializing': conversion from 'fbxsdk::FbxLongLong' to 'int', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(253): warning C4101: 'i': unreferenced local variable
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\fbx_convert.cpp(733): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  GLSL.cpp
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\glsl.cpp(113): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: see declaration of 'sscanf'
+  line.cpp
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(137): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(176): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(179): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(181): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(182): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(183): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(138): warning C4101: 'first': unreferenced local variable
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(138): warning C4101: 'last': unreferenced local variable
+  main.cpp
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(33): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(129): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(133): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(303): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(326): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(487): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\main.cpp(510): warning C4305: '=': truncation from 'double' to 'float'
+  MatrixStack.cpp
+  Program.cpp
+  Shape.cpp
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\shape.cpp(33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\shape.cpp(71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\shape.cpp(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+  WindowManager.cpp
+  Generating Code...
+c:\users\nate\desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\fbx_convert_prog\line.cpp(82): warning C4715: 'Line::init': not all control paths return a value
+fbx_convert.obj : error LNK2001: unresolved external symbol "class fbxsdk::FbxDataType fbxsdk::FbxColor3DT" (?FbxColor3DT@fbxsdk@@3VFbxDataType@1@A)
+fbx_convert.obj : error LNK2001: unresolved external symbol "class fbxsdk::FbxDataType fbxsdk::FbxColor4DT" (?FbxColor4DT@fbxsdk@@3VFbxDataType@1@A)
+fbx_convert.obj : error LNK2001: unresolved external symbol "public: static class fbxsdk::FbxClassId fbxsdk::FbxAnimStack::ClassId" (?ClassId@FbxAnimStack@fbxsdk@@2VFbxClassId@2@A)
+fbx_convert.obj : error LNK2001: unresolved external symbol "private: static void (__cdecl* fbxsdk::FbxAnimCurveKey::mDeallocatorFct)(class fbxsdk::FbxAnimCurveKey_Impl *)" (?mDeallocatorFct@FbxAnimCurveKey@fbxsdk@@0P6AXPEAVFbxAnimCurveKey_Impl@2@@ZEA)
+fbx_convert.obj : error LNK2001: unresolved external symbol "public: static class fbxsdk::FbxClassId fbxsdk::FbxAnimLayer::ClassId" (?ClassId@FbxAnimLayer@fbxsdk@@2VFbxClassId@2@A)
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetWindowShouldClose referenced in function "public: virtual void __cdecl Application::keyCallback(struct GLFWwindow *,int,int,int,int)" (?keyCallback@Application@@UEAAXPEAUGLFWwindow@@HHHH@Z)
+main.obj : error LNK2019: unresolved external symbol glfwGetFramebufferSize referenced in function "public: void __cdecl Application::render(void)" (?render@Application@@QEAAXXZ)
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetCursorPos referenced in function "public: virtual void __cdecl Application::mouseCallback(struct GLFWwindow *,int,int,int)" (?mouseCallback@Application@@UEAAXPEAUGLFWwindow@@HHH@Z)
+main.obj : error LNK2019: unresolved external symbol glfwGetTime referenced in function "double __cdecl get_last_elapsed_time(void)" (?get_last_elapsed_time@@YANXZ)
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+WindowManager.obj : error LNK2019: unresolved external symbol glfwInit referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwSetErrorCallback referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwDestroyWindow referenced in function "public: void __cdecl WindowManager::shutdown(void)" (?shutdown@WindowManager@@QEAAXXZ)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwSetKeyCallback referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwSetMouseButtonCallback referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+WindowManager.obj : error LNK2019: unresolved external symbol glfwSwapInterval referenced in function "public: bool __cdecl WindowManager::init(int,int)" (?init@WindowManager@@QEAA_NHH@Z)
+C:\Users\Nate\Desktop\animation\fbx_convert_prog_labcode (1)\fbx_convert_prog_labcode\x64\Debug\fbx_convert_prog.exe : fatal error LNK1120: 23 unresolved externals
